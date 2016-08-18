@@ -1,0 +1,658 @@
+@media screen and (min-width: 768px) {
+	 #googleMap{
+		 height:550px;
+	 }
+	#section0 .title{
+		line-height:40px;
+	}
+	.title{
+		position: absolute;
+		left: 50%; 
+		top: 60%;
+		transform: translateX(-50%) translateY(-80%);
+		-webkit-transform: translateX(-50%) translateY(-80%);
+		width:100%;
+	}
+	#polina{
+		position: absolute;
+		left: 50%; 
+		top: 80%;
+		transform: translateX(-50%) translateY(-50%);
+		-webkit-transform: translateX(-50%) translateY(-80%);
+		color:#fff;
+		text-align:center;
+		font-size:16px;
+	}
+	.moreinfo{
+		width:16%;
+		margin-top:0;
+		position:absolute;
+		left:42%;
+		top: 130%;
+		transform: translateX(-50%) translateY(-50%);
+		-webkit-transform: translateX(-50%) translateY(-50%);
+	}
+	.booking{
+		width:16%;
+		margin-top:0;
+		position:absolute;
+		left:59%;
+		top: 130%;
+		transform: translateX(-50%) translateY(-50%);
+		-webkit-transform: translateX(-50%) translateY(-50%);
+	}
+	.circle{
+		width:512px;
+		height:512px;
+		left: 50%; 
+	}
+	.text_vacation{
+		left: 50%; 
+		top: 55%;
+	}
+	.text_vacation h2{
+		font-size:65px;
+	}
+	.text_vacation h3{
+		font-size:45px;
+	}
+	.text_vacation a > h4{
+		margin-top:90px;
+	}
+	.title_section h3{
+		font-size:36px;
+	}
+	.title_section h2{
+		font-size:60px;
+	}
+	.circle_resort{
+		width:512px;
+		height:512px;
+	}
+	.text_resort h2{
+		font-size:50px;
+	}
+	.text_resort h3{
+		font-size:38px;
+	}
+	.lets-booking h1{
+		font-size:60px;
+	}
+	.lets-booking{
+		color:#fff;
+		position: absolute;
+		left: 50%; 
+		top: 45%;
+		transform: translateX(-50%) translateY(-50%);
+		-webkit-transform: translateX(-50%) translateY(-50%);
+		text-align:center;
+		padding:0;
+	}
+	.input-booking{
+		margin-top:50px;
+		margin-bottom:70px;
+	}
+	.box-content{
+		height:90px;
+		padding-top:10px;
+	}
+	.box-content img{
+		margin-left:0;
+	}
+	.box-content p{
+		margin-top:20px;
+		text-align:right;
+	}
+	#home h2{
+		font-size:60px;
+		text-transform:uppercase;
+		font-family: 'Roboto-Light';
+		text-align:left;
+		margin-bottom:15px;
+	}
+	#home .villas-background .owl-theme .owl-controls{
+		position:absolute;
+		right:0;
+		top:-45px;
+		display:block !important;
+	}
+	#home .villas-background  .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
+		background:#fff !important;
+	}
+	#home .villas-background  .owl-theme .owl-dots .owl-dot span{
+		background:none !important;
+		border:solid 2px #fff;
+	}
+	.taketour{
+		margin-top:45px;
+	}
+	.seacrh_header{
+		background:#034f84;
+		width:100%;
+		height:50px;
+	}
+	.text-Restaurant{
+		padding:0px 25px 0px 25px;
+		margin-top:-10px;
+	}
+	.section3-hom3 .product-content ul li{
+		line-height:40px;
+		margin-top:20px;
+	}
+	.Restaurant-semore{
+		float:left;
+		margin-left:20px;
+	}
+	.binhchon-sao img{
+		width:auto !important;
+		margin-top:70px;
+	}
+	.content-testimonials{
+		margin-top:50px;
+		padding:30px;
+	}
+	.section4-hom3 .owl-theme .owl-controls {
+		margin-top:0px;
+		margin-left:10px;
+		text-align: left !important;
+		-webkit-tap-highlight-color: transparent;
+	}
+	.section5-hom3 .leisure-text .binhchon-sao {
+		position: absolute;
+		top: -65px;
+		right: 10px;
+	}
+	.section5-hom3 .photo-title{
+		margin-top:90px;
+		margin-bottom:50px;
+	}
+	.section4-hom3 .photo-title{
+		margin-top:85px;
+		margin-bottom:50px;
+	}
+	/*home 4*/
+	.section3-hom4 .photo-title {
+		margin-top: 90px;
+		margin-bottom: 50px;
+	}
+	.item-slider-section5-hom4{
+		padding:6% 10% 5% 10%;
+	}
+	.item-section6-hom4-left{
+		width:50%;
+		float:left;
+	}
+	.item-section6-hom4-right{
+		width:50%;
+		float:left;
+	}
+	.section8-hom4 .title h1{
+		font-size:72px;
+		margin-bottom: -120px;
+	}
+	.section8-hom4 #polina button {
+		width: 70px;
+		height: 70px;
+		border-radius: 100%;
+		border: solid 1px #fff;
+		background: none;
+		margin-top: 10px;
+		position: relative;
+		color: #fff;
+		text-align: center;
+		font-size: 16px;
+		margin:0 auto;
+	}
+	.section8-hom4 #polina {
+		position: absolute;
+		left: 50%;
+		top: 85%;
+		/* transform: translateX(-50%) translateY(-50%); */
+		/* -webkit-transform: translateX(-50%) translateY(-80%); */
+		color: #fff;
+		text-align: center;
+		font-size: 16px;
+	}
+	/*home 5*/
+	.section3-hom5 .photo-title {
+		margin-top: 90px;
+		margin-bottom: 50px;
+	}
+	/* home 7*/
+	
+	.section5-hom7 h3{
+		margin-top:100px;
+		margin-bottom:55px;
+	}
+	.btn-submit{
+		margin-bottom:90px;
+	}
+	.hom7-img-section2 img{
+		margin-top:30px;
+	}
+
+}
+@media screen and (min-width: 992px) {
+	
+	.title h1{
+		font-size:72px;
+	}
+	.title_section{
+		top: 40%;
+	}
+	.villas-suites{
+		position:relative;
+	}
+	.superior{
+		width:400px;
+		position:absolute;
+		left:70px;
+		top:50%;
+		z-index:100;
+	}
+	.superior ul > li{
+		line-height:40px;
+	}
+	.pernight{
+		width:135px;
+		height:135px;
+		position:absolute;
+		left:480px;
+		top:50%;
+		z-index:100;
+		text-align:right;
+	}
+	.pernight-direction{
+		width:400px;
+		position:absolute;
+		left:480px;
+		top:75%;
+		z-index:100;
+	}
+	.leisure-text p{
+		height:150px;
+	}
+	.Packages-text ul{
+		height:150px;
+	}
+	.Packages-text{
+		padding:25px;
+	}
+	.section5-hom3 .leisure-text p{
+		height:80px;
+	}
+	.photo-gallery-home3 {
+		padding: 80px 0px 30px 0px;
+		background: #fff;
+	}
+	.home2 .photo-item{
+		margin-top:30px;
+	}
+	.slider-villas-suites h3{
+		font-size:36px;
+		font-family: 'roboto-thin';
+	}
+	.leisure .leisure-title{
+		font-size:36px;
+		margin-top:0;
+	}
+	.villas-background {
+		position:relative;
+		top:0;
+		left:0;
+		background:url(../images/bg2_home2.png) top center no-repeat;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-ms-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+		width:100%;
+		height:100%
+	}
+	.section3-hom3 .photo-title{
+		margin-top:85px;
+		margin-bottom:50px;
+	}
+	.section3-hom3{
+		padding-bottom:130px !important;
+	}
+	.photo-gallery-home3 .photo-title{
+		margin-bottom:20px;
+	}
+	/* home 7*/
+	
+	.section5-hom7 h3{
+		margin-top:130px;
+		margin-bottom:55px;
+	}
+	.section2-hom7{
+		padding-top:90px !important;
+	}
+	.video-home4{
+		height:450px;
+		width:100%;
+	}
+	.video-home4 video#bgvid-home4{
+		height:450px;
+	}
+	.bg-restaurant{
+		position:relative;
+		background-repeat: no-repeat !important;
+		background-attachment: fixed !important;
+		background-position: center;
+		background-size: cover !important;
+		-webkit-background-size: cover !important;
+		width: 100%;
+		color: #fff;
+		display: table;
+	}
+	.daubep{
+		position:absolute;
+		top:-126px;
+		left:80px;
+	}
+	.section5-hom7{
+		position: relative;
+		background-repeat: no-repeat !important;
+		background-attachment: fixed !important;
+		background-position: center;
+		background-size: cover !important;
+		-webkit-background-size: cover !important;
+		width: 100%;
+		display: table;
+	}
+	/*home 9*/
+	#gallery  .photo-title{
+		margin-top:90px;
+	}
+	.villas-background{
+		position: relative;
+		background-repeat: no-repeat !important;
+		background-attachment: fixed !important;
+		background-position: center;
+		background-size: cover !important;
+		-webkit-background-size: cover !important;
+		width: 100%;
+	}
+}
+@media screen and (min-width: 1200px) {	
+
+	video#bgvid { 
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		min-width: 100%;
+		min-height: 100%;
+		width: auto;
+		height: auto;
+		z-index: -100;
+		-ms-transform: translateX(-50%) translateY(-50%);
+		-moz-transform: translateX(-50%) translateY(-50%);
+		-webkit-transform: translateX(-50%) translateY(-50%);
+		transform: translateX(-50%) translateY(-50%);
+		background-repeat: no-repeat;
+		background-size: cover; 
+	}
+	.moreinfo{
+		width:220px;
+	}
+	.booking{
+		width:220px;
+	}
+	.circle{
+		left: 75%; 
+	}
+	.text_vacation{
+		left: 75%;
+		top: 52%;
+	}
+	.circle_resort{
+		left: 34%; 
+	}
+	.text_resort{
+		left: 34%; 
+	}
+	.lets-booking{
+		width:1150px;
+	}
+	.lets-booking h1{
+		font-size:120px;
+		margin-bottom:35px;
+	}
+	.lets-booking p {
+		line-height: 35px;
+	}
+	#section4 .input-booking{
+		margin-bottom:35px;
+	}
+	.arrival-date, .departure-date, .Villas-Suites{
+		position:relative;
+		width:230px;
+		height:60px;
+		margin-top:0px;
+		float:left;
+		margin-right:6px;
+	}
+	.adults, .kids{
+		position:relative;
+		width:100px;
+		height:60px;
+		margin-top:0px;
+		float:left;
+		margin-right:6px;
+	}
+	.arrival-date input, .departure-date input{
+		width:230px;
+		height:60px;
+		float:left;
+		margin-right:6px;
+	}
+	.Villas-Suites select{
+		width:230px;
+		height:60px;
+		float:left;
+		margin-right:6px;
+	}
+	.adults select, .kids select{
+		width:100px;
+		height:60px;
+		float:left;
+		margin-right:6px;
+	}
+	.send{
+		width:230px;
+		height:60px;
+		margin-top:10px;
+	}
+	.photo-gallery{
+		padding:80px 75px 80px 75px;
+	}
+	.container{
+		padding:0 !important;
+	}
+	.tour-box{
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		-webkit-transform: translateY(-50%);
+		width:100%;
+	}
+	.section5-hom3 .pre{
+		position:absolute;
+		top:40%;
+		left: -60px;
+	}
+	.section5-hom3 .next{
+		position:absolute;
+		top:40%;
+		right:-60px;
+	}
+	.section3-hom4 .pre{
+		position:absolute;
+		top:40%;
+		left: -60px;
+	}
+	.section3-hom4 .next{
+		position:absolute;
+		top:40%;
+		right:-60px;
+	}
+	.section5-hom4 .pre{
+		position:absolute;
+		top:40%;
+		left: -60px;
+	}
+	.section5-hom4 .next{
+		position:absolute;
+		top:40%;
+		right:-60px;
+	}
+	/*home 4*/
+	.text-item2-hom4{
+		padding:5% 10% 7% 10%;
+	}
+	.section8-hom4 .title h1{
+		font-size:72px;
+		margin-bottom: -120px;
+	}
+	.section8-hom4{
+		height:500px;
+		position:relative;
+	}
+	.section8-hom4 #polina {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		/* transform: translateX(-50%) translateY(-50%); */
+		/* -webkit-transform: translateX(-50%) translateY(-80%); */
+		color: #fff;
+		text-align: center;
+		font-size: 16px;
+	}
+	.section8-hom4 .title {
+		position: absolute;
+		left: 50%;
+		top: 65%;
+		transform: translateX(-50%) translateY(-80%);
+		-webkit-transform: translateX(-50%) translateY(-80%);
+		width: 100%;
+	}
+	.section5-content .item-leisure {
+		margin-bottom: 90px;
+	}
+	/*home 5*/
+	.section6-hom5{
+		padding-top:90px !important;
+		padding-bottom:90px !important;
+	}
+	.section3-hom5 .pre{
+		position:absolute;
+		top:40%;
+		left: -60px;
+	}
+	.section3-hom5 .next{
+		position:absolute;
+		top:40%;
+		right:-60px;
+	}
+	/*home 6*/
+	.icon-item-hom4{
+		width:80px;
+		height:80px;
+		border-radius:100%;
+		border:solid 1px #fff;
+		z-index:100;
+		position:relative;
+		color:#fff;
+		font-size:25px;
+		text-align:center;
+		line-height:80px;
+		margin:0 auto;
+	}
+	.text-item-hom4{
+		font-size:16px;
+	}
+	.text-item-hom4 h3{
+		font-size:36px;
+	}
+	.hovereffect6 .overlay {
+	  padding-top:10%;
+	}
+	.section7-hom4 .hovereffect6 .overlay{
+		padding-top:3%;
+	}
+	.section7-hom4 .hovereffect6 .info{
+		margin-left:-80px;
+	}
+	.title_section h2{
+		margin-top:20px;
+		margin-bottom:20px;
+	}
+	.title_section p{
+		margin-top:20px;
+	}
+}
+@media screen and (min-width: 1700px) {	
+	.text_vacation h2{
+		font-size:80px;
+	}
+	.text_resort h2{
+		font-size:60px;
+	}
+	.text_resort h3{
+		font-size:48px;
+	}
+	.moreinfo{
+		left:45%;
+	}
+	.booking{
+		left:57%;
+	}
+	.text_vacation h3 {
+		font-size: 55px;
+	}
+	.text_vacation a > h4 {
+		margin-top: 45px;
+	}
+	.villas-background{
+		padding-top:5%;
+	}
+	#home .villas-background .slide{
+		margin-top:50px;
+	}
+	#home .villas-background .owl-theme .owl-controls {
+		position: absolute;
+		right: 0;
+		top: -90px;
+	}
+	.tour-box{
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		-webkit-transform: translateY(-50%);
+		width:70%;
+	}
+	.item-hom4{
+		position:relative;
+		padding:15% 12% 3% 12%;
+	}
+	.section7-hom4 .hovereffect6 .overlay{
+		padding-top:10%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
